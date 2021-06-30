@@ -1,0 +1,43 @@
+### Custom ###
+/SingletonDemoFile.temp
+#*-pro*.yml
+#*-pro*.properties
+HELP.md
+*/target/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.svn/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+
+
+### Frontend ###
+package-lock.json
+yarn.lock
+
+### log ###
+*.log
